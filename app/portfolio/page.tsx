@@ -6,7 +6,7 @@ import { projects } from "@/lib/projects";
 export const metadata: Metadata = {
   title: "Work",
   description:
-    "Seven live projects for real UK businesses: cafés, takeaways, funeral care, ecommerce, and a custom Android app.",
+    "Seven live projects for real UK businesses: cafés, takeaways, funeral care, bespoke calligraphy, and a custom Android app.",
 };
 
 export default function PortfolioPage() {
@@ -26,8 +26,8 @@ export default function PortfolioPage() {
           </Reveal>
           <Reveal delay={0.16}>
             <p className="mt-6 max-w-2xl text-lg leading-[1.7] text-text-muted">
-              Cafés, takeaways, funeral care, and ecommerce, across the UK.
-              Every project below is shipped and running, not a mockup.
+              Cafés, takeaways, funeral care, and bespoke calligraphy, across
+              the UK. Every project below is shipped and running, not a mockup.
             </p>
           </Reveal>
         </div>

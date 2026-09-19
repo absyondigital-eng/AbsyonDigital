@@ -85,7 +85,7 @@ Source repos live under the `absyondigital-eng` GitHub org. Screenshots/assets f
 4. **Mango Paradise** — Fresh smoothies, Soho, London.
 5. **Midnight Munch** — Late-night takeaway (burgers, wings, munch boxes), Whitechapel, London. Open until 3AM.
 6. **Park N Munch** — "Park & eat" takeaway, Unit 5-10 Choir St, Salford M7 1ZD. Order from your car. **Paired with a custom-built Android app (ParkNMunchPrinter)** for automatic order printing — call this out specifically, it's proof Absyon builds real software, not just websites.
-7. **Tee Auto Care** — Custom printed/personalised seat covers, UK-based ecommerce/personalization brand.
+7. **SSN Artistic Calligraphy** — Bespoke, hand-painted Islamic/Arabic calligraphy (murals, ceilings, mihrabs, the Ayatul Kursi clock, wedding and live event calligraphy), UK-based. Hybrid shop + commission-enquiry site.
 
 When writing case study copy: lead with the business problem, then what Absyon built, then the result/why it matters. Keep it factual and concrete per the brand voice.
 

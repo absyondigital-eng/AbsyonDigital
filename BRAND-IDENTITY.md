@@ -71,7 +71,7 @@ Use these as actual case studies, not placeholders:
 4. **Mango Paradise** — Fresh smoothies, Soho, London.
 5. **Midnight Munch** — Late-night takeaway (burgers, wings, munch boxes, open till 3AM), Whitechapel, London.
 6. **Park N Munch** — "Park & eat" takeaway concept, Salford, Manchester — order from your car. Paired with a **custom Android printer app** (ParkNMunchPrinter) built in-house for order printing — good proof point for "app/software development" and hardware integration, not just websites.
-7. **Tee Auto Care** — Custom printed/personalised seat covers, UK-based ecommerce brand.
+7. **SSN Artistic Calligraphy** — Bespoke, hand-painted Islamic/Arabic calligraphy (murals, ceilings, mihrabs, the Ayatul Kursi clock, wedding and live event calligraphy), UK-based. Hybrid shop + commission-enquiry site.
 
 Framing for the site: lead each case study with the technical/AI-adjacent angle where real (e.g., Park N Munch's custom order-printing app is a strong "we build software, not just sites" proof point), then show the shipped result.
 

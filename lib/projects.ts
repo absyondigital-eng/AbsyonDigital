@@ -107,18 +107,18 @@ export const projects: Project[] = [
   },
   {
     index: "07",
-    slug: "tee-auto-care",
-    name: "Tee Auto Care",
-    tagline: "Personalised seat covers, sold with a build-your-own configurator.",
-    category: "Personalised seat cover ecommerce",
+    slug: "ssn-artistic-calligraphy",
+    name: "SSN Artistic Calligraphy",
+    tagline: "Hand-painted Islamic calligraphy, sold and commissioned in one site.",
+    category: "Bespoke Islamic & Arabic calligraphy",
     location: "United Kingdom",
     services: ["Web design & development", "Branding"],
     problem:
-      "Tee Auto Care sells a genuinely custom product: names, numbers, and artwork stitched into seat covers. A generic ecommerce template couldn't carry that without confusing buyers.",
+      "SSN's work spans a hand-drawn Ayatul Kursi clock bought off the shelf to a full ceiling mural painted on-site. One site had to sell the ready-made pieces and carry a proper commission enquiry, without either side feeling bolted on.",
     build:
-      "A dark ecommerce build with a base-style picker, a live personalisation preview, and a direct enquiry flow for bulk and custom orders.",
+      "A hybrid build: a shop for the Ayatul Kursi clocks and canvas pieces, plus a dedicated commission flow for murals, mihrabs, ceilings, and live wedding calligraphy, set against real installation photography throughout.",
     result:
-      "Customers can see their exact cover before they buy, cutting confusion and returns.",
+      "Homes, masjids, and businesses can buy ready-made in a few taps, or start a bespoke commission, from the same site.",
   },
 ];
 
