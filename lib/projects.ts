@@ -15,21 +15,6 @@ export type Project = {
 export const projects: Project[] = [
   {
     index: "01",
-    slug: "ssn-artistic-calligraphy",
-    name: "SSN Artistic Calligraphy",
-    tagline: "Hand-painted Islamic calligraphy, sold and commissioned in one site.",
-    category: "Bespoke Islamic & Arabic calligraphy",
-    location: "United Kingdom",
-    services: ["Web design & development", "Branding"],
-    problem:
-      "SSN's work spans a hand-drawn Ayatul Kursi clock bought off the shelf to a full ceiling mural painted on-site. One site had to sell the ready-made pieces and carry a proper commission enquiry, without either side feeling bolted on.",
-    build:
-      "A hybrid build: a shop for the Ayatul Kursi clocks and canvas pieces, plus a dedicated commission flow for murals, mihrabs, ceilings, and live wedding calligraphy, set against real installation photography throughout.",
-    result:
-      "Homes, masjids, and businesses can buy ready-made in a few taps, or start a bespoke commission, from the same site.",
-  },
-  {
-    index: "02",
     slug: "adams-building-construction",
     name: "Adam's Building Construction",
     tagline: "One builder, the whole job, from footings to final coat.",
@@ -44,7 +29,7 @@ export const projects: Project[] = [
       "A site that reads as capable as the work itself, giving West Yorkshire homeowners one place to start any job, big or small.",
   },
   {
-    index: "03",
+    index: "02",
     slug: "biskits",
     name: "Biskits",
     tagline: "Manchester's most Instagrammable brunch, built to match.",
@@ -58,6 +43,21 @@ export const projects: Project[] = [
     result:
       "A site that reads as premium as the brunch itself, and starts selling before anyone walks through the door.",
     featured: true,
+  },
+  {
+    index: "03",
+    slug: "ssn-artistic-calligraphy",
+    name: "SSN Artistic Calligraphy",
+    tagline: "Hand-painted Islamic calligraphy, sold and commissioned in one site.",
+    category: "Bespoke Islamic & Arabic calligraphy",
+    location: "United Kingdom",
+    services: ["Web design & development", "Branding"],
+    problem:
+      "SSN's work spans a hand-drawn Ayatul Kursi clock bought off the shelf to a full ceiling mural painted on-site. One site had to sell the ready-made pieces and carry a proper commission enquiry, without either side feeling bolted on.",
+    build:
+      "A hybrid build: a shop for the Ayatul Kursi clocks and canvas pieces, plus a dedicated commission flow for murals, mihrabs, ceilings, and live wedding calligraphy, set against real installation photography throughout.",
+    result:
+      "Homes, masjids, and businesses can buy ready-made in a few taps, or start a bespoke commission, from the same site.",
   },
   {
     index: "04",
