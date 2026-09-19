@@ -15,6 +15,36 @@ export type Project = {
 export const projects: Project[] = [
   {
     index: "01",
+    slug: "ssn-artistic-calligraphy",
+    name: "SSN Artistic Calligraphy",
+    tagline: "Hand-painted Islamic calligraphy, sold and commissioned in one site.",
+    category: "Bespoke Islamic & Arabic calligraphy",
+    location: "United Kingdom",
+    services: ["Web design & development", "Branding"],
+    problem:
+      "SSN's work spans a hand-drawn Ayatul Kursi clock bought off the shelf to a full ceiling mural painted on-site. One site had to sell the ready-made pieces and carry a proper commission enquiry, without either side feeling bolted on.",
+    build:
+      "A hybrid build: a shop for the Ayatul Kursi clocks and canvas pieces, plus a dedicated commission flow for murals, mihrabs, ceilings, and live wedding calligraphy, set against real installation photography throughout.",
+    result:
+      "Homes, masjids, and businesses can buy ready-made in a few taps, or start a bespoke commission, from the same site.",
+  },
+  {
+    index: "02",
+    slug: "adams-building-construction",
+    name: "Adam's Building Construction",
+    tagline: "One builder, the whole job, from footings to final coat.",
+    category: "General building & home renovation",
+    location: "Bradford, Leeds, Wakefield, Halifax & Huddersfield",
+    services: ["Web design & development", "Branding"],
+    problem:
+      "Adam's covers nine trades under one roof, extensions, lofts, bathrooms, roofing, driveways, plastering, plumbing and electrics, with no prices published. Without a single specialism to hang a site on, it risked reading like a generic trades directory instead of one contractor worth trusting with the whole job.",
+    build:
+      "We built the brand identity from Adam's own logo mark, then a full multi-page site: a home page, five trade-grouped pages, and a gallery, all running the same warm, no-nonsense identity so every page reinforces \"one builder, the whole job\" instead of feeling bolted together.",
+    result:
+      "A site that reads as capable as the work itself, giving West Yorkshire homeowners one place to start any job, big or small.",
+  },
+  {
+    index: "03",
     slug: "biskits",
     name: "Biskits",
     tagline: "Manchester's most Instagrammable brunch, built to match.",
@@ -30,7 +60,7 @@ export const projects: Project[] = [
     featured: true,
   },
   {
-    index: "02",
+    index: "04",
     slug: "cluckin-hot",
     name: "Cluckin' Hot",
     tagline: "Halal smash burgers with a menu that hits as hard as the heat.",
@@ -45,7 +75,7 @@ export const projects: Project[] = [
       "A mobile-first ordering experience that looks and feels as loud as the burgers taste.",
   },
   {
-    index: "03",
+    index: "05",
     slug: "house-of-serenity",
     name: "House of Serenity Funeral Services",
     tagline: "A dignified digital front door for a 30-year family practice.",
@@ -61,7 +91,7 @@ export const projects: Project[] = [
     featured: true,
   },
   {
-    index: "04",
+    index: "06",
     slug: "mango-paradise",
     name: "Mango Paradise",
     tagline: "Fresh smoothies, Soho, sold on the strength of the fruit.",
@@ -75,7 +105,7 @@ export const projects: Project[] = [
     result: "A page that sells the drink before anyone's tasted it.",
   },
   {
-    index: "05",
+    index: "07",
     slug: "midnight-munch",
     name: "Midnight Munch",
     tagline: "Whitechapel's late-night order, live until 3am.",
@@ -90,7 +120,7 @@ export const projects: Project[] = [
       "Faster orders and fewer missed calls during the hours that matter most to the business.",
   },
   {
-    index: "06",
+    index: "08",
     slug: "park-n-munch",
     name: "Park N Munch",
     tagline: "Order from your car, get fed before you're parked.",
@@ -104,21 +134,6 @@ export const projects: Project[] = [
     result:
       "A site-to-kitchen pipeline that runs itself: proof Absyon builds working software, not just pages.",
     featured: true,
-  },
-  {
-    index: "07",
-    slug: "ssn-artistic-calligraphy",
-    name: "SSN Artistic Calligraphy",
-    tagline: "Hand-painted Islamic calligraphy, sold and commissioned in one site.",
-    category: "Bespoke Islamic & Arabic calligraphy",
-    location: "United Kingdom",
-    services: ["Web design & development", "Branding"],
-    problem:
-      "SSN's work spans a hand-drawn Ayatul Kursi clock bought off the shelf to a full ceiling mural painted on-site. One site had to sell the ready-made pieces and carry a proper commission enquiry, without either side feeling bolted on.",
-    build:
-      "A hybrid build: a shop for the Ayatul Kursi clocks and canvas pieces, plus a dedicated commission flow for murals, mihrabs, ceilings, and live wedding calligraphy, set against real installation photography throughout.",
-    result:
-      "Homes, masjids, and businesses can buy ready-made in a few taps, or start a bespoke commission, from the same site.",
   },
 ];
 

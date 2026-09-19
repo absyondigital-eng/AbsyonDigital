@@ -79,13 +79,14 @@ Positioning: lead with AI/automation/chat/voice as the differentiator; web/app/b
 
 Source repos live under the `absyondigital-eng` GitHub org. Screenshots/assets for each are in their own project folders under `Website Building/` (sibling to this project) — check each project's `brand_assets` / `temporary screenshots` / `images` folder for real imagery to use, don't invent stock photos for these.
 
-1. **Biskits** — Coffee, brunch & sizzlers café/diner. 478 Wilmslow Road, Withington, Manchester. Halal. "Manchester's Most Instagrammable Brunch."
-2. **Cluckin' Hot** — Halal chicken & smash burgers, Eccles, Manchester. "Manchester's favourite spicy burger."
-3. **House of Serenity Funeral Services** — Independent, Black-owned funeral directors, Brockley & Camberwell, South East London. Serving African, Caribbean, and Rastafarian families since 2008. Led by Marilyn Carty Dip.FD. (Note: tone for this case study should stay respectful/dignified even within the bold brand system — don't force neon/edgy styling into the case study imagery itself.)
-4. **Mango Paradise** — Fresh smoothies, Soho, London.
-5. **Midnight Munch** — Late-night takeaway (burgers, wings, munch boxes), Whitechapel, London. Open until 3AM.
-6. **Park N Munch** — "Park & eat" takeaway, Unit 5-10 Choir St, Salford M7 1ZD. Order from your car. **Paired with a custom-built Android app (ParkNMunchPrinter)** for automatic order printing — call this out specifically, it's proof Absyon builds real software, not just websites.
-7. **SSN Artistic Calligraphy** — Bespoke, hand-painted Islamic/Arabic calligraphy (murals, ceilings, mihrabs, the Ayatul Kursi clock, wedding and live event calligraphy), UK-based. Hybrid shop + commission-enquiry site.
+1. **SSN Artistic Calligraphy** — Bespoke, hand-painted Islamic/Arabic calligraphy (murals, ceilings, mihrabs, the Ayatul Kursi clock, wedding and live event calligraphy), UK-based. Hybrid shop + commission-enquiry site.
+2. **Adam's Building Construction** — General builder covering nine trades (extensions, lofts, bathrooms, roofing, driveways, plastering, plumbing, electrics) under one roof. Bradford, Leeds, Wakefield, Halifax & Huddersfield.
+3. **Biskits** — Coffee, brunch & sizzlers café/diner. 478 Wilmslow Road, Withington, Manchester. Halal. "Manchester's Most Instagrammable Brunch."
+4. **Cluckin' Hot** — Halal chicken & smash burgers, Eccles, Manchester. "Manchester's favourite spicy burger."
+5. **House of Serenity Funeral Services** — Independent, Black-owned funeral directors, Brockley & Camberwell, South East London. Serving African, Caribbean, and Rastafarian families since 2008. Led by Marilyn Carty Dip.FD. (Note: tone for this case study should stay respectful/dignified even within the bold brand system — don't force neon/edgy styling into the case study imagery itself.)
+6. **Mango Paradise** — Fresh smoothies, Soho, London.
+7. **Midnight Munch** — Late-night takeaway (burgers, wings, munch boxes), Whitechapel, London. Open until 3AM.
+8. **Park N Munch** — "Park & eat" takeaway, Unit 5-10 Choir St, Salford M7 1ZD. Order from your car. **Paired with a custom-built Android app (ParkNMunchPrinter)** for automatic order printing — call this out specifically, it's proof Absyon builds real software, not just websites.
 
 When writing case study copy: lead with the business problem, then what Absyon built, then the result/why it matters. Keep it factual and concrete per the brand voice.
 

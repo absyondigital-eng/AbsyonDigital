@@ -65,13 +65,14 @@ Futuristic/bold personality suggests: subtle glow/hover effects on interactive e
 
 Use these as actual case studies, not placeholders:
 
-1. **Biskits** — Coffee, brunch & sizzlers café/diner, Withington, Manchester. Halal.
-2. **Cluckin' Hot** — Halal chicken & smash burgers, Eccles, Manchester.
-3. **House of Serenity Funeral Services** — Independent, Black-owned funeral directors, Brockley & Camberwell, South East London. Serving African, Caribbean, and Rastafarian families since 2008.
-4. **Mango Paradise** — Fresh smoothies, Soho, London.
-5. **Midnight Munch** — Late-night takeaway (burgers, wings, munch boxes, open till 3AM), Whitechapel, London.
-6. **Park N Munch** — "Park & eat" takeaway concept, Salford, Manchester — order from your car. Paired with a **custom Android printer app** (ParkNMunchPrinter) built in-house for order printing — good proof point for "app/software development" and hardware integration, not just websites.
-7. **SSN Artistic Calligraphy** — Bespoke, hand-painted Islamic/Arabic calligraphy (murals, ceilings, mihrabs, the Ayatul Kursi clock, wedding and live event calligraphy), UK-based. Hybrid shop + commission-enquiry site.
+1. **SSN Artistic Calligraphy** — Bespoke, hand-painted Islamic/Arabic calligraphy (murals, ceilings, mihrabs, the Ayatul Kursi clock, wedding and live event calligraphy), UK-based. Hybrid shop + commission-enquiry site.
+2. **Adam's Building Construction** — General builder covering nine trades (extensions, lofts, bathrooms, roofing, driveways, plastering, plumbing, electrics) under one roof. Bradford, Leeds, Wakefield, Halifax & Huddersfield.
+3. **Biskits** — Coffee, brunch & sizzlers café/diner, Withington, Manchester. Halal.
+4. **Cluckin' Hot** — Halal chicken & smash burgers, Eccles, Manchester.
+5. **House of Serenity Funeral Services** — Independent, Black-owned funeral directors, Brockley & Camberwell, South East London. Serving African, Caribbean, and Rastafarian families since 2008.
+6. **Mango Paradise** — Fresh smoothies, Soho, London.
+7. **Midnight Munch** — Late-night takeaway (burgers, wings, munch boxes, open till 3AM), Whitechapel, London.
+8. **Park N Munch** — "Park & eat" takeaway concept, Salford, Manchester — order from your car. Paired with a **custom Android printer app** (ParkNMunchPrinter) built in-house for order printing — good proof point for "app/software development" and hardware integration, not just websites.
 
 Framing for the site: lead each case study with the technical/AI-adjacent angle where real (e.g., Park N Munch's custom order-printing app is a strong "we build software, not just sites" proof point), then show the shipped result.
 
